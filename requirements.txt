@@ -76,6 +76,7 @@ confection==0.1.5
 ConfigUpdater==3.2
 connexion==2.14.2
 contourpy==1.3.1
+cramjam==2.10.0
 crashtest==0.4.1
 cron-descriptor==1.4.5
 croniter==6.0.0
@@ -112,6 +113,7 @@ exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongrou
 executing==2.2.0
 fastapi==0.115.6
 fastjsonschema==2.21.1
+fastparquet==2024.11.0
 filelock==3.17.0
 Flask==2.2.5
 Flask-AppBuilder==4.5.2
